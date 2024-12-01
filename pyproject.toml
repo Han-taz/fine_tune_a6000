@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "langraph-sh"
+version = "0.1.0"
+description = ""
+authors = ["Hantaz <shkoh@wbsoft.kr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langgraph = "^0.2.39"
+langsmith = "^0.1.137"
+langchain-openai = "^0.2.3"
+tavily-python = "^0.5.0"
+langchain-community = "^0.3.3"
+jupyter = "^1.1.1"
+notebook = "^7.2.2"
+langgraph-checkpoint-postgres = "^2.0.2"
+psycopg = {extras = ["binary", "pool"], version = "^3.2.3"}
+opensearch-py = "^2.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
