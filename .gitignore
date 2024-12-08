@@ -14,5 +14,4 @@ ENV/
 __pycache__/
 *.py[cod]
 *$py.class
-
-/home/kevin/projects/langgraph/upstage/**
+/upstage/**
