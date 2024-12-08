@@ -17,5 +17,6 @@ __pycache__/
 
 # 프로젝트 폴더
 /upstage/**
-
 /source/data/**
+/data/**
+/langchain-kr/**
