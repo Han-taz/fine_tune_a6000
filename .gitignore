@@ -1,0 +1,18 @@
+# 시스템 파일
+.DS_Store
+
+# 환경 설정 파일
+.env
+.env.*
+
+# 가상 환경
+.venv/
+venv/
+ENV/
+
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+/home/kevin/projects/langgraph/upstage/**

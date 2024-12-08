@@ -1,0 +1,33 @@
+﻿0,1,2,3,4,5,6
+,€/t,€/t,€/t,$/t,$/t,$/t
+,Low,High,±,Low,High,±
+"Domestic prices, ex-works",,,,,,
+"Rotterdam, Netherlands",530,540,+5.00,576,587,+2.00
+"Antwerp, Belgium",530,540,+5.00,576,587,+2.00
+Northern Germany,490,500,nc,533,543,-3.00
+Northeast Germany,480,490,nc,522,533,-3.00
+Southern Germany,480,490,nc,522,533,-3.00
+Southwest Germany,485,495,nc,527,538,-3.00
+Western Germany,490,500,nc,533,543,-3.00
+Hungary,525,535,nc,571,582,-3.00
+Romania,545,555,+55.00,592,603,+56.50
+Poland,500,510,nc,543,554,-3.00
+Czech Republic,435,450,-10.00,473,489,-13.50
+Germany PMB (diff to Germany),+140,+150,nc,+152,+163,-0.87
+Germany PMB,625,645,na,679,701,-3.87
+"Export prices, ex-works",,,,,,
+Central Europe bitumen index,468,478,+1.00,509,520,-1.00
+Poland-Romania (truck),465,475,+5.00,505,516,+2.00
+Hungary-Romania (truck),525,535,+5.00,571,582,+3.00
+Serbia-Romania (truck),435,445,nc,473,484,-2.00
+Austria-Romania (truck),445,455,nc,484,495,-2.00
+Germany-Poland (truck),470,480,nc,511,522,-3.00
+Hungary-Slovakia (truck),470,480,nc,511,522,-3.00
+Poland-Germany (truck),445,455,nc,484,495,-2.00
+Czech Republic-Germany (truck),405,415,-45.00,440,451,-52.00
+Rotterdam (cargo),,,,482.15,487.15,+26.00
+Baltic (cargo),,,,470.15,474.15,+26.00
+"Domestic prices, delivered",,,,,,
+Southern UK £/t,465,475,nc,591,604,-4.00
+Northern France,510,525,+2.50,554,571,nc
+"Central France Volyn/Lviv region, Ukraine (",510,525,+2.50,554,571,nc

@@ -17,6 +17,9 @@ notebook = "^7.2.2"
 langgraph-checkpoint-postgres = "^2.0.2"
 psycopg = {extras = ["binary", "pool"], version = "^3.2.3"}
 opensearch-py = "^2.7.1"
+langfuse = "^2.55.0"
+langchain-teddynote = "^0.3.35"
+pymupdf = "^1.25.0"
 
 
 [build-system]
