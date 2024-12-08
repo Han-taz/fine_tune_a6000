@@ -1,4 +1,4 @@
-from .state import ParseState
+from state.state import ParseState
 from abc import ABC, abstractmethod
 
 

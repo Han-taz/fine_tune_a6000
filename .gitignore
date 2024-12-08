@@ -14,4 +14,8 @@ ENV/
 __pycache__/
 *.py[cod]
 *$py.class
+
+# 프로젝트 폴더
 /upstage/**
+
+/source/data/**
